@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shutian_firstApp</string>
+    <string name="message_box">Enter a message</string>
+    <string name="send_botton">SEND</string>
+</resources>

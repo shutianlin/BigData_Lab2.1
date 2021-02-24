@@ -32,6 +32,7 @@
         android:layout_marginEnd="62dp"
         android:layout_marginRight="62dp"
         android:layout_marginBottom="598dp"
+        android:onClick="sendMessage"
         android:text="@string/send_botton"
         android:textColor="@android:color/black"
         android:textColorHighlight="#FFFFFF"
